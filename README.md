@@ -40,8 +40,7 @@ Professional-Stopwatch-Tkinter/
 ├── gui.py
 ├── main.py
 ├── README.md
-├── requirements.txt
-└── screenshots/
+
 ```
 
 ---
@@ -51,13 +50,13 @@ Professional-Stopwatch-Tkinter/
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Professional-Stopwatch-Tkinter.git
+git remote add origin https://github.com/Amaan-Raza-Khan/Stopwatch-using-python-.git
 ```
 
 Go inside folder
 
 ```bash
-cd Professional-Stopwatch-Tkinter
+cd Stopwatch-using-python
 ```
 
 Run
